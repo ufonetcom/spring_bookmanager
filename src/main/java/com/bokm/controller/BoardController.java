@@ -40,7 +40,7 @@ public class BoardController {
 	@Inject
 	private MemberService memberService;
 	
-////	게시판 전체 리스트 조회
+////	게시판 전체 리스트 조회 (============주석으로 github 클론된거 커밋,푸쉬 테스트
 //	@RequestMapping(value="admin/board/boardlistadmin", method = RequestMethod.GET)
 //	public String boardListView(Board board, Model model) {
 //		List<Board> boardList = boardService.boardListAll();
